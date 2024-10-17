@@ -1,0 +1,28 @@
+.fixed {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  bottom: 10%;
+  width: 100%;
+ /* Optional styling */
+  z-index: 1000; 
+
+}
+
+.button {
+  height: 83px;
+  width: 221px;
+  background-color: red;  
+  border-radius: 99rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.menu {
+  color: white;
+  font-weight: bold;
+  font-size: 2rem;
+}

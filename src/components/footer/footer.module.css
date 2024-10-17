@@ -1,0 +1,29 @@
+.container {
+  height: 100vh;
+  background-color: black;
+  color: white;
+
+}
+
+.wrapper {
+  padding: 48px 48px 48px 48px;
+}
+
+.menu {
+ font-size: 10px;
+ display: block;
+
+}
+
+
+
+.socials {
+  display: flex;
+  flex-direction: row;
+  bottom: 10%;
+  color: #9e9d9c;
+}
+
+.soc {
+  column-gap: 3rem;
+}
